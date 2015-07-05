@@ -1,0 +1,10 @@
+<?xml version='1.0'?>
+<structure>
+
+    <catalog	name="amp_misc_klassicnewtheme"	file="amp_misc_klassicnewtheme.catalog"/>
+    <huitheme	name="klassicnew"	file="klassicnew.huitheme"	catalog="amp_misc_klassicnewtheme"/>
+    <!--huicolorsset	name="klassicnew"	file="klassicnew.huicolorsset"	catalog="amp_misc_klassicnewtheme"/-->
+    <!--huistyle	name="klassicnew"	file="klassicnew.huistyle"	catalog="amp_misc_klassicnewtheme"/-->
+    <huiiconsset	name="klassicnew"	file="klassicnew.huiiconsset"	catalog="amp_misc_klassicnewtheme"/>
+
+</structure>
